@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data."
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is a subset of Machine Learning that uses neural networks."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing enables computers to understand and process human language."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is one of the most popular programming languages for Artificial Intelligence and Machine Learning."
+    },
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a lightweight Python web framework used for building web applications."
+    },
+    {
+        "question": "Who developed Python?",
+        "answer": "Python was created by Guido van Rossum."
+    },
+    {
+        "question": "What is Data Science?",
+        "answer": "Data Science is the process of extracting meaningful insights from data."
+    },
+    {
+    "question":"What is AI?",
+    "answer":"Artificial Intelligence (AI) is the simulation of human intelligence in machines that can learn, reason, solve problems, and make decisions."
+    },
+    {
+    "question":"Give me an introduction to AI",
+    "answer":"Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence, such as learning, reasoning, decision making, and language understanding."
+    }
+]
